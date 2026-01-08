@@ -1,4 +1,4 @@
-🛍️ Compradores Decididos — Módulo 30
+🛍️ Compradores Decididos 
 📖 Descrição
 Este projeto aplica agrupamento hierárquico na base Online Shoppers Intention para identificar perfis de navegação e avaliar quais grupos de usuários têm maior propensão à compra.
 O aplicativo foi desenvolvido em Python com Streamlit e apresenta os dados já traduzidos para português, permitindo análises interativas e visuais.
